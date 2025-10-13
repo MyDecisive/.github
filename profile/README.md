@@ -1,5 +1,5 @@
 <h1 align="center">
-    Empowering users to gain control of costs and operations through telemetry pipelines management.
+    Gain control of costs and operations through telemetry pipelines management.
 </h1>
 
 <p align="center">
