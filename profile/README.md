@@ -15,13 +15,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.mydecisive.ai/vision">Learn More 🎓</a>
+  <a href="https://docs.mydecisive.ai/index.html">Learn More 🎓</a>
   ·
-  <a href="https://docs.mydecisive.ai/install/installation.html">Get Started 🚀</a>
+  <a href="https://www.youtube.com/watch?v=f0222I4ep5I">Get Started in 7 Minutes  🚀</a>
   ·
-  <a href="https://docs.mydecisive.ai/contributing.html">Contribute 💻</a>
+  <a href="https://demo.mydecisive.ai">See online tour 🙋‍♀️</a>
   ·
-  <a href="mailto:support@mydecisive.ai">Ask for a demo 🙋‍♀️</a>
+  <a href="mailto:support@mydecisive.ai">Ask for a live demo 🙋‍♀️</a>
 </p>
 
 
