@@ -10,7 +10,7 @@
 
 <p align="center">
     <i>
-        “Enterprise-Class OpenTelemetry Made Simple - Transform OTel into an intelligent, self-managing platform. No more rebuilds for reconfigurations or specialized headcount requirements.” 
+        “Enterprise-Class OpenTelemetry Made Simple - Transform OTel into an intelligent, self-managing platform. Open Source. No more rebuilds for reconfigurations or specialized headcount requirements.” 
     </i>
 </p>
 
