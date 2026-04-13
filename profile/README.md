@@ -10,7 +10,7 @@
 
 <p align="center">
     <i>
-        “Enterprise-Class OpenTelemetry Made Simple - Transform OTel into an intelligent, self-managing platform. No more rebuilds for reconfigurations or specialized headcount requirements.” 
+        “The only independent, 100% open-source observability pipeline built natively on OpenTelemetry. In-Flight PII Redaction On the Wire.” 
     </i>
 </p>
 
