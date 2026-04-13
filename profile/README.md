@@ -1,5 +1,5 @@
 <h1 align="center">
-    Gain control of costs and operations through telemetry pipelines management.
+    Gain control of costs and operations with OTel. Get started in minutes.
 </h1>
 
 <p align="center">
