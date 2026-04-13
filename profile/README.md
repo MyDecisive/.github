@@ -1,5 +1,5 @@
 <h1 align="center">
-    Gain control of costs and operations with OTel. Get started in minutes.
+    Gain control of costs and operations with OTel minutes.
 </h1>
 
 <p align="center">
