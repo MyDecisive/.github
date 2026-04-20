@@ -1,5 +1,5 @@
 <h1 align="center">
-    Gain control of costs and operations with OTel minutes.
+    Gain control of costs and operations with OpenTelemetry in minutes.
 </h1>
 
 <p align="center">
