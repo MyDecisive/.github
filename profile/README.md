@@ -45,5 +45,5 @@ The goal is to make it easier for people to learn from each other and build on w
 Stay connected:
 
 * [Join the MyDecisive Community Slack](https://communityinviter.com/apps/mydecisivecommunity/octobuddy)
-* [Contribute to mdai-labs on GitHub](https://github.com/MyDecisive/mdai-labs)
+* [Contribute to mdai-labs on GitHub](https://github.com/MyDecisive/mdai-labs#contributing)
 * [Join our mailing list](https://www.mydecisive.ai/#contact-us)
