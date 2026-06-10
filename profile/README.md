@@ -29,7 +29,7 @@
 
 [MyDecisive's SmartHub](https://github.com/MyDecisive/mdai-hub) is an open platform for working with telemetry in Kubernetes environments.
 
-[`mdai-labs`](https://github.com/MyDecisive/mdai-labs) is a place to share examples, experiments, and practical patterns built with SmartHub. Contributions can be as small as a useful config, as detailed as a full walkthrough, or anything in between.
+[`mdai-labs`](https://github.com/MyDecisive/mdai-labs#contributing) is a place to share examples, experiments, and practical patterns built with SmartHub. Contributions can be as small as a useful config, as detailed as a full walkthrough, or anything in between.
 
 We welcome contributions from anyone using SmartHub to explore, test, or solve problems in their own environment. That might include:
 
