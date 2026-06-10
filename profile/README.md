@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://docs.mydecisive.ai/index.html">Learn More 🎓</a>
   ·
-  <a href="https://demo.mydecisive.ai">See online tour 🙋‍♀️</a>
+  <a href="https://demo.mydecisive.ai">See online tour 🗺️</a>
   ·
   <a href="mailto:support@mydecisive.ai">Ask for a live demo 🙋‍♀️</a>
 </p>
