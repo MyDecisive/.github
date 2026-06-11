@@ -1,27 +1,41 @@
-<h1 align="center">
-    Gain control of costs and operations with OpenTelemetry in minutes.
-</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.mydecisive.ai/">
-    <img src="https://avatars.githubusercontent.com/u/139732403?s=200&v=4" alt="MyDecisive.ai logo" height="180">
-  </a>
-</p>
+<img src="https://cdn.mydecisive.ai/media/2026/05/22/logo.svg" alt="MyDecisive" width="120" />
 
-<p align="center">
-    <i>
-        “The only independent, 100% open-source observability pipeline built natively on OpenTelemetry. In-Flight PII Redaction On the Wire.” 
-    </i>
-</p>
+# Stop observing. Start deciding.
 
-<p align="center">
-  <a href="https://docs.mydecisive.ai/index.html">Learn More 🎓</a>
-  ·
-  <a href="https://demo.mydecisive.ai">See online tour 🗺️</a>
-  ·
-  <a href="mailto:support@mydecisive.ai">Ask for a live demo 🙋‍♀️</a>
-</p>
+**AI DevOps that optimizes your system before incidents occur.**
 
+_The autonomous action layer for your telemetry._
+
+<br/>
+
+[![Join our Slack](https://img.shields.io/badge/Slack-Join%20the%20community-1D9E75?style=for-the-badge&logo=slack&logoColor=white)](https://communityinviter.com/apps/mydecisivecommunity/octobuddy)
+[![Platform demo](https://img.shields.io/badge/Platform-Watch%20the%20demo-0A0F1A?style=for-the-badge)](https://demo.mydecisive.ai/)
+[![Octant demo](https://img.shields.io/badge/Octant-Watch%20the%20demo-0A0F1A?style=for-the-badge)](https://mydecisive.github.io/octant-ui/)
+[![Blog](https://img.shields.io/badge/Blog-Read%20our%20writing-1D9E75?style=for-the-badge&logo=rss&logoColor=white)](https://www.mydecisive.ai/blog)
+
+</div>
+
+---
+
+<div align="center">
+
+### The world's only open-source, stateful, on-the-wire control and automation plane built natively on OpenTelemetry.
+
+</div>
+
+### Our Platform & Products
+
+<a href="https://github.com/MyDecisive/mdai-hub">
+  <img src="https://cdn.mydecisive.ai/media/2026/05/22/smarthub-billboard.png" alt="SmartHub — the stateful, on-the-wire control plane for OpenTelemetry." width="80%" />
+</a>
+
+<br />
+
+<a href="https://github.com/MyDecisive/octant">
+  <img src="https://cdn.mydecisive.ai/media/2026/05/22/octant-billboard.png" alt="Octant — see every decision SmartHub makes, and the work behind it." width="80%" />
+</a>
 
 ---
 
@@ -29,7 +43,7 @@
 
 [MyDecisive's SmartHub](https://github.com/MyDecisive/mdai-hub) is an open platform for working with telemetry in Kubernetes environments.
 
-[`mdai-labs`](https://github.com/MyDecisive/mdai-labs#contributing) is a place to share examples, experiments, and practical patterns built with SmartHub. Contributions can be as small as a useful config, as detailed as a full walkthrough, or anything in between.
+[`mdai-labs`](https://github.com/MyDecisive/mdai-labs) is a place to share examples, experiments, and practical patterns built with SmartHub. Contributions can be as small as a useful config, as detailed as a full walkthrough, or anything in between.
 
 We welcome contributions from anyone using SmartHub to explore, test, or solve problems in their own environment. That might include:
 
@@ -42,7 +56,7 @@ We welcome contributions from anyone using SmartHub to explore, test, or solve p
 
 The goal is to make it easier for people to learn from each other and build on what works.
 
-Stay connected:
+## Stay connected
 
 * [Join the MyDecisive Community Slack](https://communityinviter.com/apps/mydecisivecommunity/octobuddy)
 * [Contribute to mdai-labs on GitHub](https://github.com/MyDecisive/mdai-labs#contributing)
