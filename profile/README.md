@@ -21,7 +21,7 @@ _The autonomous action layer for your telemetry._
 
 <div align="center">
 
-### The world's only open-source, stateful, on-the-wire control and automation plane built natively on OpenTelemetry.
+### We are the only open-source, stateful, on-the-wire control and automation plane built natively on OpenTelemetry.
 
 </div>
 
