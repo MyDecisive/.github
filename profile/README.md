@@ -6,8 +6,6 @@
 
 **AI DevOps that optimizes your system before incidents occur.**
 
-_The autonomous action layer for your telemetry._
-
 <br/>
 
 [![Join our Slack](https://img.shields.io/badge/Slack-Join%20the%20community-1D9E75?style=for-the-badge&logo=slack&logoColor=white)](https://communityinviter.com/apps/mydecisivecommunity/octobuddy)
