@@ -12,7 +12,7 @@ _The autonomous action layer for your telemetry._
 
 [![Join our Slack](https://img.shields.io/badge/Slack-Join%20the%20community-1D9E75?style=for-the-badge&logo=slack&logoColor=white)](https://communityinviter.com/apps/mydecisivecommunity/octobuddy)
 [![Platform demo](https://img.shields.io/badge/Platform-Watch%20the%20demo-1D9E75?style=for-the-badge)](https://demo.mydecisive.ai/)
-[![Octant demo](https://img.shields.io/badge/Octant-Watch%20the%20demo-1D9E75?style=for-the-badge)](https://mydecisive.github.io/octant-ui/)
+[![Octant demo](https://img.shields.io/badge/Octant-See%20a%20preview-1D9E75?style=for-the-badge)](https://mydecisive.github.io/octant-ui/)
 [![Blog](https://img.shields.io/badge/Blog-Read%20our%20writing-1D9E75?style=for-the-badge&logo=rss&logoColor=white)](https://www.mydecisive.ai/blog)
 
 </div>
@@ -34,7 +34,7 @@ _The autonomous action layer for your telemetry._
 <br />
 
 <a href="https://github.com/MyDecisive/octant">
-  <img src="https://cdn.mydecisive.ai/media/2026/05/22/octant-billboard.png" alt="Octant — see every decision SmartHub makes, and the work behind it." width="80%" />
+  <img src="https://cdn.mydecisive.ai/media/2026/05/22/octant-billboard-v2.png" alt="Octant — see every decision SmartHub makes, and the work behind it." width="80%" />
 </a>
 
 ---
@@ -60,4 +60,4 @@ The goal is to make it easier for people to learn from each other and build on w
 
 * [Join the MyDecisive Community Slack](https://communityinviter.com/apps/mydecisivecommunity/octobuddy)
 * [Contribute to mdai-labs on GitHub](https://github.com/MyDecisive/mdai-labs#contributing)
-* [Join our mailing list](https://www.mydecisive.ai/#contact-us)
+* [Sign up for updates and early access](https://www.mydecisive.ai/#contact-us)
