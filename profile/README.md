@@ -34,7 +34,7 @@ _The autonomous action layer for your telemetry._
 <br />
 
 <a href="https://github.com/MyDecisive/octant">
-  <img src="https://cdn.mydecisive.ai/media/2026/05/22/octant-billboard-v2.png" alt="Octant — see every decision SmartHub makes, and the work behind it." width="80%" />
+  <img src="https://cdn.mydecisive.ai/media/2026/05/22/octant-billboard-v3.png" alt="Octant — see every decision SmartHub makes, and the work behind it." width="80%" />
 </a>
 
 ---
