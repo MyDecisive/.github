@@ -25,14 +25,18 @@
 
 ### Our Platform & Products
 
-<a href="https://github.com/MyDecisive/mdai-hub">
-  <img src="https://cdn.mydecisive.ai/media/2026/05/22/smarthub-billboard.png" alt="SmartHub — the stateful, on-the-wire control plane for OpenTelemetry." width="80%" />
+Octant is the interface for the SmartHub. Start with Octant today.
+
+<a href="https://github.com/MyDecisive/octant">
+  <img src="https://cdn.mydecisive.ai/media/2026/05/22/octant-billboard-v4.png" alt="Octant — see every decision SmartHub makes, and the work behind it." width="80%" />
 </a>
 
 <br />
 
-<a href="https://github.com/MyDecisive/octant">
-  <img src="https://cdn.mydecisive.ai/media/2026/05/22/octant-billboard-v4.png" alt="Octant — see every decision SmartHub makes, and the work behind it." width="80%" />
+The SmartHub is for MyDecisive power users. Try Octant before you roll your own SmartHub. 
+
+<a href="https://github.com/MyDecisive/mdai-hub">
+  <img src="https://cdn.mydecisive.ai/media/2026/05/22/smarthub-billboard.png" alt="SmartHub — the stateful, on-the-wire control plane for OpenTelemetry." width="80%" />
 </a>
 
 ---
