@@ -34,7 +34,7 @@ Octant is the management interface for the SmartHub. Start with Octant today.
 <br />
 <br />
 
-The SmartHub is for MyDecisive power users. Try Octant before you roll your own SmartHub(s). 
+SmartHub is for MyDecisive power users. Try Octant before you roll your own SmartHub(s). 
 
 <a href="https://github.com/MyDecisive/mdai-hub">
   <img src="https://cdn.mydecisive.ai/media/2026/05/22/smarthub-billboard.png" alt="SmartHub — the stateful, on-the-wire control plane for OpenTelemetry." width="80%" />
