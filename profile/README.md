@@ -10,7 +10,7 @@
 
 [![Join our Slack](https://img.shields.io/badge/Slack-Join%20the%20community-1D9E75?style=for-the-badge&logo=slack&logoColor=white)](https://inviter.co/mydecisivecommunity)
 [![Platform demo](https://img.shields.io/badge/Platform-Watch%20the%20demo-1D9E75?style=for-the-badge)](https://demo.mydecisive.ai/)
-[![Octant demo](https://img.shields.io/badge/Octant-See%20a%20Walk-Through-1D9E75?style=for-the-badge)](https://mydecisive.github.io/octant-ui/)
+[![Octant demo](https://img.shields.io/badge/Octant-See%20a%20WalkThrough-1D9E75?style=for-the-badge)](https://mydecisive.github.io/octant-ui/)
 [![Blog](https://img.shields.io/badge/Blog-Read%20our%20writing-1D9E75?style=for-the-badge&logo=rss&logoColor=white)](https://www.mydecisive.ai/blog)
 
 </div>
