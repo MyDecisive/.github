@@ -19,7 +19,7 @@
 
 <div align="center">
 
-### The only open-source, stateful, on-the-wire control and automation plane built natively on OpenTelemetry.
+### The only open-source, stateful, on-the-wire automation and control plane built natively on OpenTelemetry.
 
 </div>
 
